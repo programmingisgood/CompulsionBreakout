@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"kNum",
+				"kNumBlocksHigh"
+			],
+			[
+				"home",
+				"homeOwner"
+			],
+			[
+				"obst",
+				"obstacleType"
+			],
+			[
+				"kTrain",
+				"kMaxTrainSpeed"
+			],
+			[
+				"dest",
+				"destinations"
+			],
+			[
+				"passe",
+				"passengers"
+			],
+			[
+				"kScreenha",
+				"kScreenHalfHeight"
+			],
+			[
+				"game",
+				"gameOver"
+			],
+			[
+				"Random",
+				"GetRandomPointInWorld"
+			],
+			[
+				"gameOv",
+				"gameOverTime"
+			],
+			[
+				"built",
+				"builtPoints"
+			],
+			[
+				"drawtex",
+				"drawTextPos"
+			],
+			[
+				"drawText",
+				"drawTextPos"
+			],
+			[
+				"des",
+				"destinations"
+			],
+			[
+				"obstac",
+				"obstacle"
+			],
+			[
+				"obsta",
+				"obstacles"
+			],
+			[
+				"remove",
+				"remove"
+			],
+			[
+				"kSc",
+				"kScreenHeight"
+			],
+			[
+				"passeg",
+				"passengers"
+			],
+			[
+				"UpdatePass",
+				"UpdatePassengerAttractedToTrain"
+			],
+			[
+				"grab",
+				"GrabberMixin"
+			],
+			[
+				"nearb",
+				"nearbyGrabables"
+			],
+			[
+				"physics",
+				"physicsWorld"
+			],
+			[
+				"kWo",
+				"kWorldHeight"
+			],
+			[
+				"ph",
+				"physicsWorld"
+			],
+			[
+				"net",
+				"net"
+			],
+			[
+				"last",
+				"lastSkateMarkVel"
+			],
+			[
+				"quad",
+				"quadH"
+			],
+			[
+				"kWor",
+				"kWorldHeight"
+			],
+			[
+				"kWorl",
+				"kWorldWidth"
+			],
+			[
+				"Create",
+				"CreateBackground"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/scene_game.js",
+			"settings":
+			{
+				"buffer_size": 3668,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components.js",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/game.js",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/modules.js",
+			"settings":
+			{
+				"buffer_size": 651,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/crafty.js",
+			"settings":
+			{
+				"buffer_size": 322375,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Brian/Projects/CompulsionBreakout/src/scenes.js",
+		"/C/Users/Brian/Projects/BearGarage/src/dialogs.js",
+		"/C/Users/Brian/Projects/BearGarage/src/dialogs.json",
+		"/C/Users/Brian/Projects/MarketSim/main.lua",
+		"/C/Users/Brian/Projects/MarketSim/conf.lua",
+		"/C/Users/Brian/AppData/Roaming/Sublime Text 2/Packages/User/RunLove.py",
+		"/C/Users/Brian/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Brian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Brian/AppData/Roaming/Sublime Text 2/Packages/User/Love2D.sublime-build",
+		"/C/Users/Brian/Projects/Westward/Westward.sublime-project",
+		"/Users/Murphy/Projects/Experiments2/Amore/Camera.lua",
+		"/Users/Murphy/Projects/Experiments2/Amore/PhysicsMixin.lua",
+		"/Users/Murphy/Projects/Experiments2/Amore/StabboGame.lua",
+		"/Users/Murphy/Projects/Experiments2/Amore/StabboPlayState.lua",
+		"/Users/Murphy/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Murphy/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Murphy/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Murphy/Projects/Experiments2/Amore/Run.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text(",
+			"CreateBlocks",
+			"GARAGE_2_DIALOG",
+			"addwife",
+			"dom",
+			"persist",
+			"this.bear",
+			"for ",
+			"local",
+			"Westward",
+			"animation",
+			"kaddob",
+			"boulder",
+			"getrandompoint",
+			"kobs",
+			"kobstaclety",
+			".direction",
+			"ksmokel",
+			"kMaxTrainSpeed",
+			"kaddsm",
+			"kaddsmoker",
+			"kadd",
+			"kaddtrain",
+			"kaddsmoke",
+			"direction",
+			"smokelif",
+			"motionline",
+			"drawArr",
+			"line",
+			"motionlines",
+			"motionlin",
+			"drawtrain",
+			"gold",
+			"kmaxg",
+			"if self.game",
+			"updateg",
+			".gold",
+			"140",
+			"spawngol",
+			"drawarr",
+			".passengers",
+			"kGameWinConditionTime",
+			"kgamewin",
+			"kgamepro",
+			"GetRandomP",
+			"worldscr",
+			"type.s",
+			"speedvar",
+			"obstacle =",
+			"type.speed",
+			"kAddObstacleRate",
+			"UpdateAddObstacles",
+			"worldsc",
+			"progress",
+			"map",
+			"kGameProgressionTime",
+			".motionl",
+			"setline",
+			"drawui",
+			"setlinew",
+			"motionlin",
+			".end",
+			"kmotionli",
+			"kmotion",
+			"updatetrainsp",
+			"updatetrain",
+			"drawtrainc",
+			"drawtra",
+			"kPassengerMaxDropoffSpeed",
+			"kPassengerMaxPickupSpeed",
+			"add",
+			".attracted =",
+			"attract",
+			"draw(",
+			".drawquad",
+			"draw(",
+			".drawImage",
+			"updatetrains",
+			"updatetrainspeed",
+			"updatetrainp",
+			"updatetrain",
+			".prevpoint",
+			"updateremoveol",
+			"updatebu",
+			"getpointont",
+			"builtPoint",
+			"index",
+			"updatedes",
+			"dropoffp",
+			"dropoff",
+			"builtpoint",
+			"debugdrawer",
+			"debugdraw",
+			"updatepass",
+			"dropoffp",
+			"updatePass",
+			"destinations",
+			"updatepass",
+			"\"off ",
+			"updatepasse",
+			"updateaddp",
+			"self",
+			"passengerPos",
+			"passenger",
+			"passengerPos",
+			"trainpos",
+			"updatepass",
+			"debugdr",
+			"getoffscre",
+			"getoffs",
+			"removepass",
+			"removePas",
+			"removepass",
+			"updatepass",
+			"kPassengerTypes",
+			"4",
+			"kPassengerTypes",
+			"grab",
+			"puck",
+			"nearbyUsables",
+			"Query",
+			"update",
+			"puck",
+			"upda",
+			"puck",
+			"kpuckmass",
+			"updateska",
+			"resultsEffect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"kTrainMaxSpeed",
+			"kPassengerMaxTrainSpeed",
+			"self.player"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/scene_game.js",
+					"settings":
+					{
+						"buffer_size": 3668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1766,
+								1766
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components.js",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/game.js",
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/modules.js",
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/crafty.js",
+					"settings":
+					{
+						"buffer_size": 322375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279319,
+								279319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138669.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gam",
+				"src/game.js"
+			],
+			[
+				"",
+				"src/dialog_moredietcoke_1.js"
+			],
+			[
+				"di",
+				"src/dialog_moredietcoke_1.js"
+			],
+			[
+				"d",
+				"src/dialog_moredietcoke_1.js"
+			],
+			[
+				"dialog",
+				"src/dialog_moredietcoke_1.js"
+			],
+			[
+				"dial",
+				"src/dialog_garage_1.js"
+			],
+			[
+				"markeps",
+				"MarketSimPlayState.lua"
+			],
+			[
+				"pla",
+				"WestwardPlayState.lua"
+			],
+			[
+				"ut",
+				"Utils.lua"
+			],
+			[
+				"play",
+				"WestwardPlayState.lua"
+			],
+			[
+				"util",
+				"Utils.lua"
+			],
+			[
+				"sprit",
+				"SpriteMixin.lua"
+			],
+			[
+				"plays",
+				"WestwardPlayState.lua"
+			],
+			[
+				"debug",
+				"DebugDrawer.lua"
+			],
+			[
+				"super",
+				"SuperHockeyPlayState.lua"
+			],
+			[
+				"gr",
+				"GrabberMixin.lua"
+			],
+			[
+				"su",
+				"SuperHockeyPlayState.lua"
+			],
+			[
+				"suo",
+				"SuperHockeyGame.lua"
+			],
+			[
+				"phy",
+				"PhysicsMixin.lua"
+			],
+			[
+				"worl",
+				"World.lua"
+			],
+			[
+				"superh",
+				"SuperHockeyPlayState.lua"
+			],
+			[
+				"wo",
+				"World.lua"
+			],
+			[
+				"sup",
+				"SuperHockeyPlayState.lua"
+			],
+			[
+				"camera",
+				"Camera.lua"
+			],
+			[
+				"dra",
+				"DebugDrawer.lua"
+			],
+			[
+				"utils",
+				"Utils.lua"
+			],
+			[
+				"uti",
+				"Utils.lua"
+			],
+			[
+				"phys",
+				"PhysicsMixin.lua"
+			],
+			[
+				"mov",
+				"MovableMixin.lua"
+			],
+			[
+				"sprite",
+				"SpriteMixin.lua"
+			],
+			[
+				"conf",
+				"conf.lua"
+			],
+			[
+				"spr",
+				"SpriteMixin.lua"
+			],
+			[
+				"ph",
+				"PhysicsMixin.lua"
+			],
+			[
+				"spri",
+				"SpriteMixin.lua"
+			],
+			[
+				"mix",
+				"Mixins.lua"
+			],
+			[
+				"stabbog",
+				"StabboGame.lua"
+			],
+			[
+				"stabbopl",
+				"StabboPlayState.lua"
+			],
+			[
+				"main",
+				"main.lua"
+			],
+			[
+				"stabbo",
+				"StabboPlayState.lua"
+			],
+			[
+				"run",
+				"Run.sh"
+			],
+			[
+				"stabbopla",
+				"StabboPlayState.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}
