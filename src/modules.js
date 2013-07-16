@@ -8,9 +8,7 @@ var SetOnAllLoadedCallback = function(callbackFunc)
     }
 }
 
-Modules = { SetOnAllLoadedCallback: SetOnAllLoadedCallback, onAllLoaded: null, allLoaded: false, _allModules:
-[ { name: "Tweener" },
-  { name: "Shape" } ] }
+Modules = { SetOnAllLoadedCallback: SetOnAllLoadedCallback, onAllLoaded: null, allLoaded: false, _allModules: [] }
 
 var loadModules = { };
 for (var i = 0; i < Modules._allModules.length; i++)

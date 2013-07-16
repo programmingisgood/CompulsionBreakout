@@ -15,7 +15,7 @@ Game =
         Crafty.init(Game.width(), Game.height());
         Crafty.background("rgb(255, 255, 255)");
         
-        Modules.SetOnAllLoadedCallback(function() { Crafty.scene("Game"); });
+        Crafty.scene("Game");
     }
 }
 

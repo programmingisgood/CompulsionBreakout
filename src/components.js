@@ -8,6 +8,7 @@ Crafty.c("DestroyOnCollision",
         this.onHit("Collision",
 	        function(hitEnts)
 	        {
+                self.trigger("CollisionDestroy");
 	            self.destroy();
 	        });
     }
