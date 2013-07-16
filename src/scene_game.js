@@ -249,7 +249,7 @@ Crafty.scene('Game', function()
     var paddle = Crafty.e("2D, Canvas, Color, Twoway, Collision")
                   .attr({ x: Game.width() / 2 - kHalfPaddleWidth, y: Game.height() - kPaddleHeight, w: kPaddleWidth, h: kPaddleHeight })
                   .color("#339933")
-                  .twoway(10)
+                  .twoway(10, 0)
                   .collision();
 
     paddle.bind("EnterFrame",

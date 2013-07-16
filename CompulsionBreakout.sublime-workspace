@@ -148,10 +148,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/scene_game.js",
+			"file": "/E/Dropbox/Public/CompulsionBreakout/src/scene_game.js",
 			"settings":
 			{
-				"buffer_size": 11997,
+				"buffer_size": 12000,
 				"line_ending": "Windows"
 			}
 		},
@@ -224,6 +224,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Brian/Projects/CompulsionBreakout/src/scene_game.js",
 		"/C/Users/Brian/Projects/BearGarage/src/scene_garage.js",
 		"/C/Users/Brian/Projects/CompulsionBreakout/src/scenes.js",
 		"/C/Users/Brian/Projects/BearGarage/src/dialogs.js",
@@ -261,6 +262,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"twow",
 			"cool",
 			"CheckDisplayAchievement",
 			"hitBottom",
@@ -387,8 +389,7 @@
 			"kPassengerTypes",
 			"4",
 			"kPassengerTypes",
-			"grab",
-			"puck"
+			"grab"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -414,18 +415,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/scene_game.js",
+					"file": "/E/Dropbox/Public/CompulsionBreakout/src/scene_game.js",
 					"settings":
 					{
-						"buffer_size": 11997,
+						"buffer_size": 12000,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1600,
-								1601
+								7533,
+								7533
 							]
 						],
 						"settings":
@@ -435,7 +436,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 542.0,
+						"translation.y": 3213.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
